@@ -1,0 +1,33 @@
+# Core ML + Inference
+torch>=2.0
+torchvision
+torchaudio
+
+# Transformers and HuggingFace Ecosystem
+transformers>=4.36.0
+datasets>=2.15.0
+evaluate>=0.4.0
+
+# CLIP model loading
+ftfy
+regex
+scipy
+tqdm
+
+# CLIPScore & Local Evaluation
+sentence-transformers>=2.2.2
+scikit-learn
+Pillow
+
+# Metric Dependencies
+rouge-score
+nltk
+absl-py
+
+# Optional: If you use LangChain or simple RAG
+langchain
+langchain-community
+faiss-cpu
+
+# Optional: To avoid multiprocessing issues on Windows
+platformdirs
