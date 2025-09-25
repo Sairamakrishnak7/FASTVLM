@@ -1,7 +1,4 @@
 # Agentic Video Understanding with RAG + SLMs
-Video understanding in healthcare demands lightweight, real-time models for safety-critical insights.
-Small Language Models (SLMs) struggle with temporal reasoning across video frames.
- Hallucinations in AI must be addressed to ensure clinical safety and reliability in healthcare applications
 
  ## Problem Statement:
  Design a multimodal video reasoning agent using open-source SLMs and RAG pipelines to enhance situational awareness in clinical workflows.
